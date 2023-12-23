@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.example.demo_countdown2"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.demo_countdown2"
